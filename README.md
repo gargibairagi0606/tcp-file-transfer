@@ -1,4 +1,4 @@
-# TCP File Transfer Application (Python)
+# TCP File Transfer Application
 
 A reliable TCP-based client-server application demonstrating **file transfer with chunking, acknowledgments, and retransmission**.  
 Supports text, images, PDFs, and other file types. Implements **connection-oriented networking**, multi-file requests, and robust error handling.
